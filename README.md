@@ -2,7 +2,7 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Robiati&show_icons=true&theme=radical)
 
- ##Principais tecnologias
+ ## Principais tecnologias
 <div style="display: inline_block"><br/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
