@@ -1,4 +1,4 @@
-👾 Um pouco sobre mim!
+## 👾 Um pouco sobre mim!
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Robiati&show_icons=true&theme=radical)
 
