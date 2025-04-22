@@ -1,7 +1,23 @@
 ## 👾 Um pouco sobre mim!
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Robiati&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Robiati)
+<p>
+    <img 
+        align="Center" 
+        alt="GitHub Stats" 
+        height="180" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=Lucas-Robiati&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+    align="Center" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Robiati&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+<p>
+<br/>
+<!--![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Robiati&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Robiati)-->
  ## Principais tecnologias
 <div style="display: inline_block"><br/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
