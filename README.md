@@ -1,7 +1,7 @@
 ## 👾 Um pouco sobre mim!
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Robiati&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Robiati)
  ## Principais tecnologias
 <div style="display: inline_block"><br/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
